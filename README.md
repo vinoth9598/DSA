@@ -45,7 +45,3 @@ Requirement	Best Choice
         Thread-safe	Vector / Hashtable
         Priority-based	PriorityQueue
 
-
-Just tell me 👍
-
-Get smarter responses, upload files and images, and more.
